@@ -12,7 +12,7 @@ A comprehensive web application for managing wedding gift contributions with pay
 
 - **Development (Sandbox)**: https://3000-impxy1y0ug8i5hk4jfk6q-8f57ffe2.sandbox.novita.ai
 - **Production**: (Deploy with `npm run deploy:prod`)
-- **GitHub**: (Push to GitHub repository)
+- **GitHub Repository**: https://github.com/saileshbhatta7/wedding-gift-portal
 
 ## ✨ Features
 
